@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_QTPhonebook_FILE /Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/QTPhonebook.app/Contents/MacOS/QTPhonebook)
+set(__QT_DEPLOY_TARGET_QTPhonebook_TYPE EXECUTABLE)

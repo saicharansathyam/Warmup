@@ -1,0 +1,9 @@
+/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/QTPhonebook.dir
+/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install.dir
+/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/QTPhonebook_autogen_timestamp_deps.dir
+/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/CMakeFiles/QTPhonebook_autogen.dir

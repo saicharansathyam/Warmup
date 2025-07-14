@@ -1,0 +1,16 @@
+# ninja log v6
+11	395	1752458733277370252	QTPhonebook_autogen/timestamp	fb54167b8902cf6c
+11	395	1752458733277370252	QTPhonebook_autogen/mocs_compilation.cpp	fb54167b8902cf6c
+11	395	1752458733277370252	/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/QTPhonebook_autogen/timestamp	fb54167b8902cf6c
+11	395	1752458733277370252	/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/QTPhonebook_autogen/mocs_compilation.cpp	fb54167b8902cf6c
+396	871	1752458733287265357	CMakeFiles/QTPhonebook.dir/contact.cpp.o	4d634ce57f654525
+396	1019	1752458733286941979	CMakeFiles/QTPhonebook.dir/QTPhonebook_autogen/mocs_compilation.cpp.o	fb4294462c34ed6
+396	1024	1752458733287075897	CMakeFiles/QTPhonebook.dir/main.cpp.o	9de58cac672ed342
+396	1143	1752458733287173898	CMakeFiles/QTPhonebook.dir/mainwindow.cpp.o	2410da3693b6a842
+1143	1305	1752458734033508702	QTPhonebook.app/Contents/MacOS/QTPhonebook	ef135ec8e7f2b89a
+7	44	1752459101653708381	QTPhonebook_autogen/timestamp	fb54167b8902cf6c
+7	44	1752459101653708381	QTPhonebook_autogen/mocs_compilation.cpp	fb54167b8902cf6c
+7	44	1752459101653708381	/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/QTPhonebook_autogen/timestamp	fb54167b8902cf6c
+7	44	1752459101653708381	/Users/saicharansathyam/Desktop/Cohort2025_SEA_ME/Module 03/QT_Phonebook/QTPhonebook/build/Qt_6_9_1_for_macOS-Debug/QTPhonebook_autogen/mocs_compilation.cpp	fb54167b8902cf6c
+44	635	1752459101690504728	CMakeFiles/QTPhonebook.dir/mainwindow.cpp.o	2410da3693b6a842
+635	711	1752459102281439722	QTPhonebook.app/Contents/MacOS/QTPhonebook	ef135ec8e7f2b89a
